@@ -1,4 +1,7 @@
 Idea 1
+<<<<<<< HEAD
 Dummy test line 
 Dummy  line 
 Dummy  line 2 
+=======
+>>>>>>> parent of 1eba5dc... adding faulty change for testing
